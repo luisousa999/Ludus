@@ -1,0 +1,15 @@
+/home/luisousa/Desktop/Ludus/bin/Debug/net6.0/Ludus
+/home/luisousa/Desktop/Ludus/bin/Debug/net6.0/Ludus.deps.json
+/home/luisousa/Desktop/Ludus/bin/Debug/net6.0/Ludus.runtimeconfig.json
+/home/luisousa/Desktop/Ludus/bin/Debug/net6.0/Ludus.dll
+/home/luisousa/Desktop/Ludus/bin/Debug/net6.0/Ludus.pdb
+/home/luisousa/Desktop/Ludus/obj/Debug/net6.0/Ludus.csproj.AssemblyReference.cache
+/home/luisousa/Desktop/Ludus/obj/Debug/net6.0/Ludus.GeneratedMSBuildEditorConfig.editorconfig
+/home/luisousa/Desktop/Ludus/obj/Debug/net6.0/Ludus.AssemblyInfoInputs.cache
+/home/luisousa/Desktop/Ludus/obj/Debug/net6.0/Ludus.AssemblyInfo.cs
+/home/luisousa/Desktop/Ludus/obj/Debug/net6.0/Ludus.csproj.CoreCompileInputs.cache
+/home/luisousa/Desktop/Ludus/obj/Debug/net6.0/Ludus.dll
+/home/luisousa/Desktop/Ludus/obj/Debug/net6.0/refint/Ludus.dll
+/home/luisousa/Desktop/Ludus/obj/Debug/net6.0/Ludus.pdb
+/home/luisousa/Desktop/Ludus/obj/Debug/net6.0/Ludus.genruntimeconfig.cache
+/home/luisousa/Desktop/Ludus/obj/Debug/net6.0/ref/Ludus.dll
